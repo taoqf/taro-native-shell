@@ -6319,11 +6319,6 @@ react-native-screens@^2.11.0:
   resolved "https://registry.npm.taobao.org/react-native-screens/download/react-native-screens-2.15.0.tgz#9b97c1881c4fcdf304bf363f0013225901625f44"
   integrity sha1-m5fBiBxPzfMEvzY/ABMiWQFiX0Q=
 
-react-native-syan-image-picker@0.4.10:
-  version "0.4.10"
-  resolved "https://registry.npm.taobao.org/react-native-syan-image-picker/download/react-native-syan-image-picker-0.4.10.tgz#aefeef40842cddfdf43a9ab7ef76787e8f630dcf"
-  integrity sha1-rv7vQIQs3f30Opq373Z4fo9jDc8=
-
 react-native-unimodules@^0.11.0:
   version "0.11.0"
   resolved "https://registry.npm.taobao.org/react-native-unimodules/download/react-native-unimodules-0.11.0.tgz#78483ee4e7eb27b439d34c3ba7455f40087ff166"
